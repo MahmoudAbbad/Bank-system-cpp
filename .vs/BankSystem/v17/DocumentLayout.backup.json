@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\Main\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Screens\\Main\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\TransactionsScreens\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Screens\\TransactionsScreens\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\ClientScreens\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Screens\\ClientScreens\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\LogScreens\\clsLoginRegesterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Screens\\LogScreens\\clsLoginRegesterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\CurrenciesScreens\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Screens\\CurrenciesScreens\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Lib\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Lib\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Lib\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Lib\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Lib\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Lib\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Lib\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Lib\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Core\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Core\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Core\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\Core\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\BankSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}|BankSystem\\BankSystem.vcxproj|solutionrelative:BankSystem\\BankSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\Main\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "BankSystem\\Screens\\Main\\clsMainScreen.h",
+              "ToolTip": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\Main\\clsMainScreen.h",
+              "RelativeToolTip": "BankSystem\\Screens\\Main\\clsMainScreen.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T18:27:12.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsTransferScreen.h",
+              "DocumentMoniker": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\TransactionsScreens\\clsTransferScreen.h",
+              "RelativeDocumentMoniker": "BankSystem\\Screens\\TransactionsScreens\\clsTransferScreen.h",
+              "ToolTip": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\TransactionsScreens\\clsTransferScreen.h",
+              "RelativeToolTip": "BankSystem\\Screens\\TransactionsScreens\\clsTransferScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T18:27:05.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsDeleteClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\ClientScreens\\clsDeleteClientScreen.h",
+              "RelativeDocumentMoniker": "BankSystem\\Screens\\ClientScreens\\clsDeleteClientScreen.h",
+              "ToolTip": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\ClientScreens\\clsDeleteClientScreen.h",
+              "RelativeToolTip": "BankSystem\\Screens\\ClientScreens\\clsDeleteClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T18:27:03.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsLoginRegesterScreen.h",
+              "DocumentMoniker": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\LogScreens\\clsLoginRegesterScreen.h",
+              "RelativeDocumentMoniker": "BankSystem\\Screens\\LogScreens\\clsLoginRegesterScreen.h",
+              "ToolTip": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\LogScreens\\clsLoginRegesterScreen.h",
+              "RelativeToolTip": "BankSystem\\Screens\\LogScreens\\clsLoginRegesterScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T18:27:00.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsCurrencyCalculatorScreen.h",
+              "DocumentMoniker": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\CurrenciesScreens\\clsCurrencyCalculatorScreen.h",
+              "RelativeDocumentMoniker": "BankSystem\\Screens\\CurrenciesScreens\\clsCurrencyCalculatorScreen.h",
+              "ToolTip": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Screens\\CurrenciesScreens\\clsCurrencyCalculatorScreen.h",
+              "RelativeToolTip": "BankSystem\\Screens\\CurrenciesScreens\\clsCurrencyCalculatorScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T18:21:56.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsBankClient.h",
+              "DocumentMoniker": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Core\\clsBankClient.h",
+              "RelativeDocumentMoniker": "BankSystem\\Core\\clsBankClient.h",
+              "ToolTip": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Core\\clsBankClient.h",
+              "RelativeToolTip": "BankSystem\\Core\\clsBankClient.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T18:20:01.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Lib\\clsUtil.h",
+              "RelativeDocumentMoniker": "BankSystem\\Lib\\clsUtil.h",
+              "ToolTip": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Lib\\clsUtil.h",
+              "RelativeToolTip": "BankSystem\\Lib\\clsUtil.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T18:19:57.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Lib\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "BankSystem\\Lib\\clsInputValidate.h",
+              "ToolTip": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Lib\\clsInputValidate.h",
+              "RelativeToolTip": "BankSystem\\Lib\\clsInputValidate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T18:19:55.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Lib\\clsDate.h",
+              "RelativeDocumentMoniker": "BankSystem\\Lib\\clsDate.h",
+              "ToolTip": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Lib\\clsDate.h",
+              "RelativeToolTip": "BankSystem\\Lib\\clsDate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T18:19:55.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsString.h",
+              "DocumentMoniker": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Lib\\clsString.h",
+              "RelativeDocumentMoniker": "BankSystem\\Lib\\clsString.h",
+              "ToolTip": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Lib\\clsString.h",
+              "RelativeToolTip": "BankSystem\\Lib\\clsString.h",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T18:19:53.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsCurrency.h",
+              "DocumentMoniker": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Core\\clsCurrency.h",
+              "RelativeDocumentMoniker": "BankSystem\\Core\\clsCurrency.h",
+              "ToolTip": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\Core\\clsCurrency.h",
+              "RelativeToolTip": "BankSystem\\Core\\clsCurrency.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T18:19:34.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BankSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\BankSystem.cpp",
+              "RelativeDocumentMoniker": "BankSystem\\BankSystem.cpp",
+              "ToolTip": "C:\\Users\\mahmo\\source\\repos\\BankSystem\\BankSystem\\BankSystem.cpp",
+              "RelativeToolTip": "BankSystem\\BankSystem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-18T18:18:29.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BankSystem", "BankSystem\BankSystem.vcxproj", "{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "x64", "x64", "{5B9EE720-0103-41A1-89B2-6DDFBA886443}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Debug", "Debug", "{86A012B0-86C3-4FBC-ADA9-66FA0E6EFA83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}.Debug|x64.ActiveCfg = Debug|x64
+		{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}.Debug|x64.Build.0 = Debug|x64
+		{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}.Debug|x86.ActiveCfg = Debug|Win32
+		{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}.Debug|x86.Build.0 = Debug|Win32
+		{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}.Release|x64.ActiveCfg = Release|x64
+		{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}.Release|x64.Build.0 = Release|x64
+		{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}.Release|x86.ActiveCfg = Release|Win32
+		{3FE0DF1D-6959-4BC1-9F8B-9BC5D14FA806}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{86A012B0-86C3-4FBC-ADA9-66FA0E6EFA83} = {5B9EE720-0103-41A1-89B2-6DDFBA886443}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D469568-777F-4074-B7F3-18B5840636C0}
+	EndGlobalSection
+EndGlobal
